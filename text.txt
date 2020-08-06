@@ -1,0 +1,12 @@
+
+
+
+*Generate an email with the followingg syntax firstName.lastName@deparment.company.
+
+*Determine the department (sales, development,accounting), if nonce leave blank
+
+*Generate a radom String for a password
+
+*Have a set methods to change the password, set the mailbox capacity, and define and alternate email address
+
+*Have get methods to display the name, email and mailbox capacity.
